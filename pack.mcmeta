@@ -1,0 +1,13 @@
+{ 
+  "pack": {
+    "pack_format": 9,
+    "description": "kawaba u jon o 'mainkalafata' nan!"
+  },
+  "language": {
+    "kwb_en": {
+      "name": "kawaba",
+      "region": "go'okawaba",
+      "bidirectional": false
+    }
+  }
+}
